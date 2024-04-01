@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HyHuynh\\TrueCoders\\repos\\MethodOverloadingPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{586B94AC-096A-472E-B1D0-FEF7FBED43F4}|MethodOverloadingPractice\\MethodOverloadingPractice.csproj|c:\\hyhuynh\\truecoders\\repos\\methodoverloadingpractice\\methodoverloadingpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{586B94AC-096A-472E-B1D0-FEF7FBED43F4}|MethodOverloadingPractice\\MethodOverloadingPractice.csproj|solutionrelative:methodoverloadingpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\HyHuynh\\TrueCoders\\repos\\MethodOverloadingPractice\\MethodOverloadingPractice\\Program.cs",
+              "RelativeDocumentMoniker": "MethodOverloadingPractice\\Program.cs",
+              "ToolTip": "C:\\HyHuynh\\TrueCoders\\repos\\MethodOverloadingPractice\\MethodOverloadingPractice\\Program.cs",
+              "RelativeToolTip": "MethodOverloadingPractice\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwAkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T16:31:20.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

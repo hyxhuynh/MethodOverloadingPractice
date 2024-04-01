@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MethodOverloadingPractice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc1014f9649646a9f96f56aac7a36ef3cd010503")]
 [assembly: System.Reflection.AssemblyProductAttribute("MethodOverloadingPractice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MethodOverloadingPractice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

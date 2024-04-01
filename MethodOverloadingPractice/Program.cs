@@ -40,11 +40,12 @@ namespace MethodOverloadingPractice
         }
         static void Main(string[] args)
         {
-            Add(3, 4);
-            Add(5.38m, 6.54m);
+            Console.WriteLine(Add(3, 4));
+            Console.WriteLine(Add(5.38m, 6.54m));
             Console.WriteLine(Add(1, 4, true));
             Console.WriteLine(Add(2, 9, false));
             Console.WriteLine(Add(5, -12, true));
+            Console.WriteLine(Add(-2, 3, true));
         }
     }
 }
